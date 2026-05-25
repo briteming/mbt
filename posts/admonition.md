@@ -1,9 +1,13 @@
 ---
 title: "一位老兄的人生告诫"
 excerpt: "点击标题看全文"
+coverImage: "/blog/dynamic-routing/cover.jpg"
 date: "2026-05-25T08:23:00.322Z"
 author:
   name: ym
+  picture: "/blog/authors/jj.jpeg"
+ogImage:
+url: "/blog/dynamic-routing/cover.jpg"
 ---
 
 已过不惑之年的我，人生阅历虽谈不上丰富，但因生于贫苦人家，少不了遭遇坎坷曲折，体验世态炎凉、阅睹众生百态，也取得了一定的成就，于是乎对人生有所感悟。兹略表一二，与诸君共勉。
